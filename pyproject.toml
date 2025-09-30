@@ -1,5 +1,5 @@
 [project]
-name = "student-performance-analysis-and-prediction"
+name = "BMW-sales-data"
 version = "0.1.0"
 description = "A machine learning project to analyze and predict student performance in examinations"
 authors = [
