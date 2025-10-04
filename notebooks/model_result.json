@@ -1,20 +1,20 @@
 {
     "Ridge": {
-        "Best Score": -672445750.3596159,
+        "Best Score": -0.14602032047103355,
         "Best params": {
             "model__alpha": 1,
             "model__max_iter": 1000
         }
     },
     "Lasso": {
-        "Best Score": -672441366.937762,
+        "Best Score": -0.14589671903500806,
         "Best params": {
-            "model__alpha": 1,
+            "model__alpha": 0.1,
             "model__max_iter": 1000
         }
     },
     "Random Forest": {
-        "Best Score": -672010025.014977,
+        "Best Score": -0.14592855371351746,
         "Best params": {
             "model__max_depth": 2,
             "model__min_samples_leaf": 3,
@@ -23,7 +23,7 @@
         }
     },
     "XGBRegressor": {
-        "Best Score": -672533273.6,
+        "Best Score": -0.14613778508159153,
         "Best params": {
             "model__learning_rate": 0.1,
             "model__max_depth": 2,
